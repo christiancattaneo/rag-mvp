@@ -1,0 +1,24 @@
+# Environment variables and API keys
+.env
+.env.*
+*.env
+.envrc
+.secrets
+.streamlit/secrets.toml
+
+# Database files
+messages.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store 
